@@ -1,0 +1,2 @@
+reset - resetea riego automatico
+info - info del sistema
