@@ -3,7 +3,12 @@
     "description": "servidor casa domotica basado en node red y mqtt",
     "version": "0.0.1",
     "dependencies": {
-        "node-red-dashboard": "2.13.0"
+        "node-red-dashboard": "2.13.0",
+        "node-red-contrib-telegrambot-home": "0.5.1",
+        "node-red-contrib-ui-led": "0.2.1",
+        "node-red-contrib-usbcamera": "0.0.6",
+        "node-red-node-mysql": "0.0.18",
+        "node-red-node-random": "0.1.2"
     },
     "node-red": {
         "settings": {
